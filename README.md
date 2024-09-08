@@ -118,7 +118,7 @@ The original BIT* algorithm finds the shortest path regardless of the gray area 
 
 The distance from surrounding obstacles is also measured to be greater than in the existing algorithm.
 
-Additionally, the reduced number of samples allowed for decreased algorithm time complexity.
+In addition, the reduced number of samples allowed for decreased algorithm time complexity.
 
 ## Developers 👥
 
